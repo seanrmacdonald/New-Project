@@ -1,4 +1,4 @@
 # Sean MacDonald's Notes
 
-# This is an h1 header (largest)
-###### This is an h6 header (smallest)
+## Summary
+This repositiory contains all the notes taken by [Sean MacDonald](https://github.com/seanrmacdonald) for the Lighthouse Labs Data Science Bootcamp
